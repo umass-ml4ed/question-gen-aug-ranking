@@ -21,7 +21,7 @@ def add_params():
     parser = argparse.ArgumentParser()
     parser.add_argument("-MT", "--model_type", type=str, default="t", help="T for T5 and B for BART")
     parser.add_argument("-MN", "--model_name", default="t5-small", help="Variant of the Transformer model for finetuning")
-    parser.add_argument("-N", "--run_name", type=str, default="flan_t5_large_prompt_control_aug_org_ans_lambda_0.80", help="Name of the Run (Used in storing the model)")
+    parser.add_argument("-N", "--run_name", type=str, default="flan_t5_large_aug_0.8", help="Name of the Run (Used in storing the model)")
     parser.add_argument("-EFN", "--eval_filename", type=str, default="test.json", help="Evaluation filename")
     parser.add_argument("-F", "--eval_folder", type=str, default="FairytaleQA", help="Evaluation Folder where output is saved (testset for testing on test set)")
     parser.add_argument("-CF", "--checkpoint_folder", type=str, default="Checkpoints_org", help="Folder where the checkpoint is stored")

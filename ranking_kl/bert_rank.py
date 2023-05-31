@@ -233,7 +233,7 @@ def main():
 
     # check wandb
     if args.wandb:
-        wandb.init(project="Quest_Gen_Challenge", entity="ml4ed", name=args.save_name)    
+        wandb.init(project="Quest_Gen", entity="ml4ed", name=args.save_name)    
 
     # Read data 
     input_dir = './data/results_org/'
