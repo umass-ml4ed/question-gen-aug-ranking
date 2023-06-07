@@ -1,4 +1,27 @@
-# Quest_Generation_DA_OGAR
+# Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank
+
+In this repository we present the code to our paper "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank" by [Nischal Ashok Kumar](https://nish-19.github.io/), [Nigel Fernandez](https://www.linkedin.com/in/ni9elf/), [Zichao Wang](https://zw16.web.rice.edu/) and [Andrew Lan](https://people.umass.edu/~andrewlan/). We propose two methods, viz, Data Augmentation and Over-Generate-and-Rank that significantly improve the question generation performance on reading comprehension datasets. 
+
+For any questions please [email](mailto:nashokkumar@umass.edu) or raise an issue.
+
+If you find our code or paper useful, please consider citing:
+
+<TODO: Add citation>
+
+## Contents 
+
+1. [Installation](#installation) 
+2. [Finetuning](#finetuning)
+3. [Inference/ Generation](#inferencegeneration)
+4. [Data Augmentation](#data-augmentation) 
+5. [Ranking](#ranking)
+6. [ROUGE Score computation](#rouge-scores-computation)
+
+## Installation
+
+To install the libraries need for running this code: 
+
+<TODO: Add citation>
 
 ## Finetuning
 
@@ -108,7 +131,7 @@ python -m code.ranking_kl.bert_rank_inference \
 The csv file containing the generations are saved in ```results_rank_kl```
 
 
-## ROUGE Scores
+## ROUGE Scores Computation
 
 To compute the ROUGE Scores
 
