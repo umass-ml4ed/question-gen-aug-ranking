@@ -15,7 +15,7 @@ If you find our code or paper useful, please consider citing:
 3. [Inference/ Generation](#inferencegeneration)
 4. [Data Augmentation](#data-augmentation) 
 5. [Ranking](#ranking)
-6. [ROUGE Score computation](#rouge-scores-computation)
+6. [ROUGE Score Computation](#rouge-scores-computation)
 
 ## Installation
 
