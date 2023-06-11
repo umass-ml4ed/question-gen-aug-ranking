@@ -1,4 +1,4 @@
-name: nistorch_new
+name: quest_gen
 channels:
   - defaults
 dependencies:
@@ -132,4 +132,3 @@ dependencies:
     - wcwidth==0.2.6
     - websocket-client==1.5.0
     - websockets==10.4
-prefix: /home/nashokkumar_umass_edu/.conda/envs/nistorch_new
