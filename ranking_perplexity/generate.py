@@ -11,10 +11,10 @@ import pathlib
 import time
 from transformers import T5Tokenizer, BartTokenizer
 
-from code.finetune.finetune import FinetuneTransformer
-from code.ranking_perplexity.rank import rank
-from code.finetune.inference_org import get_parallel_corpus, construct_transformer_input_old_vary, get_transformer_encoding, FairyDataset, get_dataloader
-from code.utils.create_dataset_split import load_df, RAW_DIR, save_csv
+from finetune.finetune_org import FinetuneTransformer
+from ranking_perplexity.rank import rank
+from finetune.inference_org import get_parallel_corpus, construct_transformer_input_old_vary, get_transformer_encoding, FairyDataset, get_dataloader
+from utils.handle_data import load_df, RAW_DIR, save_csv
 
 
 def add_params():
@@ -23,7 +23,6 @@ def add_params():
     parser.add_argument("-MN", "--model_name", default="t5-small", help="Variant of the Transformer model for finetuning")
     parser.add_argument("-N", "--run_name", type=str, default="flan_t5_large_aug_0.8", help="Name of the Run (Used in storing the model)")
     parser.add_argument("-EFN", "--eval_filename", type=str, default="test.json", help="Evaluation filename")
-    parser.add_argument("-F", "--eval_folder", type=str, default="FairytaleQA", help="Evaluation Folder where output is saved (testset for testing on test set)")
     parser.add_argument("-CF", "--checkpoint_folder", type=str, default="Checkpoints_org", help="Folder where the checkpoint is stored")
     parser.add_argument("-B", "--batch_size", type=int, default=8, help="Batch size for passing through the Transformer Model")
 
@@ -60,7 +59,7 @@ def load_data(args, test_data, tokenizer):
     return test_dataloader
 
 def load_model(args, device):
-    search_dir = os.path.join('./code/finetune', args.checkpoint_folder, args.run_name)
+    search_dir = os.path.join('./finetune', args.checkpoint_folder, args.run_name)
     for file in os.listdir(search_dir):
         name, ext = os.path.splitext(file)
         if ext == '.ckpt':
@@ -155,7 +154,7 @@ def main():
     set_random_seed(seed = 37)
     args = add_params() 
 
-    test_file = os.path.join('./data', args.eval_folder, args.eval_filename)
+    test_file = os.path.join('./data', args.eval_filename)
 
     # Load test data
     test_data = []

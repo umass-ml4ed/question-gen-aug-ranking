@@ -1,6 +1,6 @@
 # %%
 '''
-python -m code.finetune.finetune \
+python -m finetune.finetune_org \
     -MT T \
     -MN t5-small \
     -N t5_small
@@ -297,17 +297,14 @@ def add_params():
 if __name__ == '__main__':
     args = add_params()
 
-    if args.fold_learning:
-        train_file_path = os.path.join('./data/FairytaleQA_story_folds', str(args.fold_number), args.train_file_name)
-    else:
-        train_file = os.path.join('./data/FairytaleQA', args.train_file_name)
+    train_file = os.path.join('./data', args.train_file_name)
     train_data = []
 
     with open(train_file, 'r') as infile:
         for line in infile:
             train_data.append(json.loads(line))
     
-    val_file = './data/FairytaleQA/valid.json'
+    val_file = './data/valid.json'
     val_data = []
 
     with open(val_file, 'r') as infile:
@@ -323,26 +320,6 @@ if __name__ == '__main__':
     elif args.model_type == 'B':
         train_inps = construct_transformer_input_bart(train_story, train_answer)
         val_inps = construct_transformer_input_bart(val_story, val_answer)
-
-
-    # if args.prompt_choice == 3:
-    #     train_inps = construct_transformer_input_old_vary(train_story, train_answer, args.prefix_choice)
-    #     val_inps = construct_transformer_input_old_vary(val_story, val_answer, args.prefix_choice)
-    # elif args.prompt_choice == 2:
-    #     train_inps = construct_transformer_input_newer(train_story, train_answer, args.prefix_choice)
-    #     val_inps = construct_transformer_input_newer(val_story, val_answer, args.prefix_choice)
-    # elif args.prompt_choice == 1:
-    #     train_inps = construct_transformer_input(train_story, train_answer, args.prefix_choice)
-    #     val_inps = construct_transformer_input(val_story, val_answer, args.prefix_choice)
-
-    # avg_tr_tk_len, max_tr_tk_len = get_token_len_stats(tokenizer, train_inps)
-    # avg_val_tk_len, max_val_tk_len = get_token_len_stats(tokenizer, val_inps)
-
-    # with open('token_stats.txt', 'w') as outfile:
-    #     print('Average tokenized train length:', avg_tr_tk_len, file=outfile)
-    #     print('Max Train Token Length:', max_tr_tk_len, file=outfile)
-    #     print('Average tokenized val length:', avg_val_tk_len, file=outfile)
-    #     print('Max Val Token Length:', max_tr_tk_len, file=outfile)
     
     if args.model_type == 'T':
         tokenizer = T5Tokenizer.from_pretrained(args.model_name)
@@ -359,7 +336,6 @@ if __name__ == '__main__':
     val_dataset = FairyDataset(val_input_ids, val_attention_mask, val_labels)
     print('Created Pytorch Dataset')
 
-
     batch_size = args.batch_size
     training_dataloader = get_dataloader(batch_size, train_dataset)
     valid_dataloader = get_dataloader(batch_size, val_dataset, datatype='val')
@@ -369,7 +345,7 @@ if __name__ == '__main__':
 
     # NOTE: Load checkpoint
     if args.load_checkpoint:
-        search_dir = os.path.join('./code/finetune/', args.checkpoint_folder, args.checkpoint_name)
+        search_dir = os.path.join('./finetune/', args.checkpoint_folder, args.checkpoint_name)
         for file in os.listdir(search_dir):
             ckpt_file = os.path.join(search_dir, file)
         print('ckpt_file', ckpt_file)
@@ -391,8 +367,6 @@ if __name__ == '__main__':
     if args.external_data:
         save_name = save_name + '_external'
     
-    if args.fold_learning:
-        save_name = save_name + '_fold_' + str(args.fold_number)
 
     print('Save name:', save_name)
 
@@ -414,7 +388,7 @@ if __name__ == '__main__':
 
     lr_monitor = LearningRateMonitor(logging_interval='step')
     
-    save_directory = os.path.join('./code/finetune/Checkpoints_org', save_name)
+    save_directory = os.path.join('./finetune/Checkpoints_org', save_name)
     save_checkpoint =  ModelCheckpoint(dirpath=save_directory, monitor='validation_loss', save_top_k=1)
 
     if args.training_strategy == 'DP':

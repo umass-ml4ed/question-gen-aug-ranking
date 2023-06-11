@@ -1,6 +1,6 @@
 # %%
 '''
-python -m code.finetune.finetune \
+python -m finetune.finetune_org_data_augment \
     -MT T \
     -MN t5-small \
     -N t5_small
@@ -321,17 +321,14 @@ def add_params():
 if __name__ == '__main__':
     args = add_params()
 
-    if args.fold_learning:
-        train_file_path = os.path.join('./data/FairytaleQA_story_folds', str(args.fold_number), args.train_file_name)
-    else:
-        train_file = os.path.join('./data/FairytaleQA', args.train_file_name)
+    train_file = os.path.join('./data', args.train_file_name)
     train_data = []
 
     with open(train_file, 'r') as infile:
         for line in infile:
             train_data.append(json.loads(line))
     
-    val_file = './data/FairytaleQA/valid.json'
+    val_file = './data/valid.json'
     val_data = []
 
     with open(val_file, 'r') as infile:
@@ -405,7 +402,7 @@ if __name__ == '__main__':
 
     # NOTE: Load checkpoint
     if args.load_checkpoint:
-        search_dir = os.path.join('./code/finetune/', args.checkpoint_folder, args.checkpoint_name)
+        search_dir = os.path.join(args.checkpoint_folder, args.checkpoint_name)
         for file in os.listdir(search_dir):
             ckpt_file = os.path.join(search_dir, file)
         print('ckpt_file', ckpt_file)
@@ -453,7 +450,7 @@ if __name__ == '__main__':
 
     lr_monitor = LearningRateMonitor(logging_interval='step')
     
-    save_directory = os.path.join('./code/finetune/Checkpoints_org', save_name)
+    save_directory = os.path.join('./finetune/Checkpoints_org', save_name)
     save_checkpoint =  ModelCheckpoint(dirpath=save_directory, monitor='validation_loss', save_top_k=1)
 
     if args.training_strategy == 'DP':

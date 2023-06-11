@@ -120,6 +120,8 @@ python -m code.ranking_perplexity.generate \
 
 ### Distribution Ranking
 
+First, run the Inference (#inferencegeneration) step to get the 10 different generations per sample. 
+
 * **Finetuning Distribution Ranking-Based Model**
 ```
 python -m code.ranking_kl.bert_rank \

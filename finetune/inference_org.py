@@ -1,5 +1,5 @@
 '''
-python -m code.finetune.inference -N t5_small -M t5-small
+python -m finetune.inference -N t5_small -M t5-small
 '''
 
 import json
@@ -20,8 +20,8 @@ from torch.utils.data import Dataset, TensorDataset, DataLoader
 from transformers import T5Tokenizer
 from transformers import BartTokenizer
 
-from code.utils.create_dataset_split import RAW_DIR, save_csv
-from code.finetune.finetune import FinetuneTransformer
+from utils.handle_data import RAW_DIR, save_csv
+from finetune import FinetuneTransformer
 
 os.environ['WANDB_NOTEBOOK_NAME'] = 'FinetuneTransformer'
 
@@ -240,10 +240,7 @@ if __name__=='__main__':
 
     args = add_params()
 
-    if args.fold_decoding:
-        test_file = os.path.join('./data/FairytaleQA_story_folds', str(args.fold_number), args.eval_filename)
-    else:
-        test_file = os.path.join('./data', args.eval_folder, args.eval_filename)
+    test_file = os.path.join('./data', args.eval_folder, args.eval_filename)
     
     test_data = []
     with open(test_file, 'r') as infile:
@@ -280,7 +277,7 @@ if __name__=='__main__':
     # %%
     # Load the Generative Head 
     # search for ckpt file
-    search_dir = os.path.join('./code/finetune', args.checkpoint_folder, args.run_name)
+    search_dir = os.path.join('./finetune', args.checkpoint_folder, args.run_name)
     for file in os.listdir(search_dir):
         name, ext = os.path.splitext(file)
         if ext == '.ckpt':
@@ -333,85 +330,3 @@ if __name__=='__main__':
     if args.eval_filename != 'test.json':
         save_csv_name = args.eval_filename.split('.')[0] + '_' + save_csv_name
     save_csv(new_val_df, save_csv_name, output_path)
-
-    # for ctr, seed in enumerate(seed_vals):
-    #     # Set seed
-    #     set_seed(seed_val = seed)
-    #     print('Begining Generation')
-    #     val_outputs = get_generation(model, test_dataloader, force_words_ids, 
-    #                     args.decoding_strategy, args.num_of_beams, 
-    #                     args.p_sampling, args.temperature, 
-    #                     args.top_K, args.alpha,
-    #                     args.num_of_samples)
-    #     print('Done Generating!')
-
-    #     if args.track_gpu_usage:
-    #         monitor.stop()
-
-    #     print('Begining Decoding')
-    #     val_preds = get_preds(tokenizer, val_outputs)
-    #     print('Done Decoding!')
-
-    #     preds_df = pd.DataFrame()
-    #     preds_df['question'] = test_question
-    #     preds_df['generated_question'] = val_preds
-
-    #     output_path = os.path.join(RAW_DIR, "results/{}".format(args.eval_folder))
-    #     save_csv_name =  args.run_name + '_org'
-    #     save_csv(preds_df, save_csv_name, output_path)
-
-
-        # # NOTE: Saving val_preds
-        # if args.eval_folder != 'testset':
-        #     val_df['prompt'] = val_inps
-        #     val_df['question'] = val_question
-        # if args.decoding_strategy == 'N':
-        #     times = [args.num_of_samples for _ in range(len(val_df))]
-        #     new_val_df = val_df.loc[val_df.index.repeat(times)].reset_index(drop=True)
-        #     save_csv_name = 'nucleus_{:s}_{:.2f}_{:.2f}_{:d}'.format(sub_dir, args.p_sampling, args.temperature, args.num_of_samples)
-        # elif args.decoding_strategy == 'C':
-        #     times = [args.num_of_samples for _ in range(len(val_df))]
-        #     new_val_df = val_df.loc[val_df.index.repeat(times)].reset_index(drop=True)
-        #     save_csv_name = 'contrastive_{:s}_{:d}_{:.2f}_{:d}'.format(sub_dir, args.top_K, args.alpha, args.num_of_samples)
-        # else:
-        #     new_val_df = val_df
-        #     save_csv_name = sub_dir
-
-        # # Save predictions
-        # preds_df = pd.DataFrame()
-        # preds_df['pair_id'] = new_val_df['pair_id']
-        # if args.eval_folder != 'testset':
-        #     preds_df['attribute1'] = new_val_df['attribute1']
-        #     preds_df['local_or_sum'] = new_val_df['local_or_sum']
-        #     preds_df['ex_or_im'] = new_val_df['ex_or_im']
-        #     if args.eval_folder == 'data_augmentation':
-        #         preds_df['source_title'] = new_val_df['source_title']
-        #         preds_df['cor_section'] = new_val_df['cor_section']
-        #         preds_df['answer'] = new_val_df['answer']
-        #     preds_df['prompt'] = new_val_df['prompt']
-        #     preds_df['question'] = new_val_df['question']
-        # preds_df['generated_question'] = val_preds
-
-        # # Create output directory 
-        # if args.average_decoding:
-        #     output_path = os.path.join(RAW_DIR, "results/{}".format(args.eval_folder), save_csv_name) 
-        # else:
-        #     output_path = os.path.join(RAW_DIR, "results/{}".format(args.eval_folder))
-        
-        # if not os.path.exists(output_path):
-        #     os.mkdir(output_path)
-
-        
-        # if args.fold_decoding:
-        #     output_path = os.path.join(output_path, main_dir)
-        
-        # if not os.path.exists(output_path):
-        #     os.mkdir(output_path)
-        
-        # print(output_path, save_csv_name)
-        
-        # # Save the predictions
-        # if args.average_decoding:
-        #     save_csv(preds_df, str(ctr+1), output_path)
-        # else:
-        #     save_csv(preds_df, save_csv_name, output_path)

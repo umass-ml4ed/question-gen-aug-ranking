@@ -3,7 +3,7 @@ import pandas as pd
 import statistics
 import argparse
 from rouge_score import rouge_scorer
-from code.utils.create_dataset_split import load_df, RAW_DIR
+from code.utils.handle_data import load_df, RAW_DIR
 
 def add_params():
     parser = argparse.ArgumentParser()

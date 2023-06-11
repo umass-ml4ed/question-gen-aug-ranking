@@ -208,6 +208,7 @@ def train(use_wandb, no_token_type, epochs, model, device, train_dataloader, val
 def add_params():
     parser = argparse.ArgumentParser()
     parser.add_argument('-W', '--wandb', action=argparse.BooleanOptionalAction, help='For Wandb logging')
+    parser.add_argument('-WE', '--wandb_entity', type=str, default="Your_Organization_Name", help="Name of your wandb organization")
     parser.add_argument('-NTT', '--no_token_type', action=argparse.BooleanOptionalAction, help='If model does not have token type ids')
     parser.add_argument('-Attr', '--use_attr', action=argparse.BooleanOptionalAction, help='Use attribute')
     parser.add_argument('-ExIm', '--use_ex_im', action=argparse.BooleanOptionalAction, help='Use explicit implict tag')
@@ -233,7 +234,7 @@ def main():
 
     # check wandb
     if args.wandb:
-        wandb.init(project="Quest_Gen", entity="ml4ed", name=args.save_name)    
+        wandb.init(project="Quest_Gen", entity=args.wandb_entity, name=args.save_name)    
 
     # Read data 
     input_dir = './data/results_org/'
@@ -278,7 +279,7 @@ def main():
     optimizer, scheduler = get_optimizer_scheduler(model, args.learning_rate, len(train_dataloader), args.num_epochs)
 
     # finetune the model 
-    save_path = os.path.join('./code/ranking_kl/Checkpoints_sep', args.save_name)
+    save_path = os.path.join('./ranking_kl/Checkpoints_sep', args.save_name)
 
 
     train(args.wandb, args.no_token_type, args.num_epochs, model, device, train_dataloader, val_dataloader, optimizer, scheduler, args.alpha1, args.alpha2, save_path)

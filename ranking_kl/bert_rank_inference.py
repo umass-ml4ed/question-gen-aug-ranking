@@ -15,7 +15,7 @@ from rouge_score import rouge_scorer
 from transformers import AutoTokenizer, AutoModel
 from transformers import AdamW, get_linear_schedule_with_warmup
 
-from code.ranking_kl.bert_rank import get_transformer_input, tokenize, get_dataloader, RougeKLModel
+from ranking_kl.bert_rank import get_transformer_input, tokenize, get_dataloader, RougeKLModel
 
 
 def get_score(model, device, test_dataloader, no_token_type=False):
@@ -105,7 +105,7 @@ def main():
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
  
     # Load the model 
-    save_dir = './code/ranking_kl/Checkpoints_sep'
+    save_dir = './ranking_kl/Checkpoints_sep'
     save_path = os.path.join(save_dir, args.save_name)
     model = torch.load(save_path).to(device)
 
