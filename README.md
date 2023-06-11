@@ -19,6 +19,9 @@ If you find our code or paper useful, please consider citing:
 
 ## Installation
 
+A [Wandb](https://wandb.ai/site) account is required to log train-test-val information (loss, metrics, etc). Best model checkpoints are saved locally.
+
+
 To install the libraries need for running this code: 
 
 ```
@@ -26,6 +29,8 @@ conda env create -f environment.yml
 ```
 
 ## Finetuning
+
+Use the ```-h``` option for displaying a list of all arguments and their descriptions. 
 
 To finetune an encoder-decoder model (T5/BART):
 
