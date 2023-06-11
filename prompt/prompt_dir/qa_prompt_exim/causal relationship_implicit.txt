@@ -1,0 +1,41 @@
+<Example 1>
+<Context> before many days had passed he reached the southern island , and then slowly but surely made his way to the head - quarters of the chiefs kumaso and takeru . he now met with great difficulties , for he found the country exceedingly wild and rough . the mountains were high and steep , the valleys dark and deep , and huge trees and bowlders of rock blocked up the road and stopped the progress of his army . it was all but impossible to go on . though the prince was but a youth he had the wisdom of years , and , seeing that it was vain to try and lead his men further , he said to himself : " to attempt to fight a battle in this impassable country unknown to my men only makes my task harder . we can not clear the roads and fight as well . it is wiser for me to resort to stratagem and come upon my enemies unawares . in that way i may be able to kill them without much exertion . " so he now bade his army halt by the way . his wife , the princess ototachibana , had accompanied him , and he bade her bring him the robe his aunt the priestess of ise had given him , and to help him attire himself as a woman . with her help he put on the robe , and let his hair down till it flowed over his shoulders . ototachibana then brought him her comb , which he put in his black tresses , and then adorned himself with strings of strange jewels . when he had finished his unusual toilet , ototachibana brought him her mirror . he smiled as he gazed at himself - the disguise was so perfect . 
+<Question> why did yamato put on the robe ?
+<Attribute> causal relationship
+<Ex_or_Im> implicit
+<Answer> to disguise himself as a woman .
+<END>
+
+<Example 2>
+<Context> at last she pitied him , and removed the charm , and the horns dropped down on the ground , and he would have killed her on the spot , only he was as weak as water , and his fellow - servants came in and carried him up to the big house . well , some way or other the story came to the ears of the prince , and he strolled down that way . she had only the dress of a countrywoman on her as she sat sewing at the window , but that did not hide her beauty , and he was greatly puzzled after he had a good look , just as a body is puzzled to know whether something happened to him when he was young or if he only dreamed it . well , the witch 's daughter heard about it too , and she came to see the strange girl ; and what did she find her doing but cutting out the pattern of a gown from brown paper ; and as she cut away , the paper became the richest silk she ever saw . the witch 's daughter looked on with greedy eyes , and , says she , ' what would you be satisfied to take for that scissors ? ' ' i 'll take nothing , ' says she , ' but leave to spend one night outside the prince 's chamber . ' well , the proud lady fired up , and was going to say something dreadful ; but the scissors kept on cutting , and the silk growing richer and richer every inch . so she promised what the girl had asked her .
+<Question> why did the youngest princess want to spend one night outside the prince's chamber ?
+<Attribute> causal relationship
+<Ex_or_Im> implicit
+<Answer> she wanted to help her husband .
+<END>
+
+<Example 3>
+<Context> " who will go now ? " said lawn dyarrig . " who will go but me ? " answered arthur . whatever length ur went , arthur did n't go the half of it . " by my father , and the tooth of my father , i would n't give another look at terrible valley for all that 's in erin , dead or alive ! " " i will go now , " said lawn dyarrig , " and as i put no foul play on you , i hope ye'll not put foul play on me . " " we will not , indeed , " said they . whatever length the other two went , lawn dyarrig did n't go the half of it , till he stepped out of the basket and went down on his own feet . it was not far he had travelled in terrible valley when he met seven hundred heroes guarding the country . " in what place here has the green king his castle ? " asked he of the seven hundred . " what sort of a sprisawn goat or sheep from erin are you ? " asked they . " if we had a hold of you , the two arms of me , that 's a question you would not put a second time ; but if we have n't you , we 'll not be so long . " they faced lawn dyarrig then and attacked him ; but he went through them like a hawk or a raven through small birds . he made a heap of their feet , a heap of their heads , and a castle of their arms .
+<Question> why did lawn dyraig need to reassure that his brothers would not put foul play on him ?
+<Attribute> causal relationship
+<Ex_or_Im> implicit
+<Answer> he knew they did not like him .
+<END>
+
+<Example 4>
+<Context> ' this will do for a wedding gift some day . ' and celandine could not help thinking that it was to her that the fairy meant to give the two blue wax - torches which burned without ever getting smaller , or the diamond from which more diamonds were continually growing , or the boat that sailed under water , or whatever beautiful or wonderful thing they might happen to be looking at . it is true that she never said so positively , but she certainly allowed the princess to believe it , because she thought a little disappointment would be good for her . but the person she really relied upon for curing celandine of her vanity was prince featherhead . the old fairy was not at all pleased with the way he had been going on for some time , but her heart was so soft towards him that she was unwilling to take him away from the pleasures he loved , except by offering him something better , which is not the most effectual mode of correction , though it is without doubt the most agreeable .
+<Question> why did celandine think she would receive a valuable treasure from the old fairy ?
+<Attribute> causal relationship
+<Ex_or_Im> implicit
+<Answer> the old fairy was going to give her a wedding gift .
+<END>
+
+<Example 5>
+<Context> at about that time the emperor was induced to have some of his faithful servants slain . then dschang liang left his service and went to the gu tschong mountain . there he found the old man by the yellow stone , gained the hidden knowledge , returned home , and feigning illness loosed his soul from his body and disappeared . later , when the rebellion of the " red eyebrows " broke out , his tomb was opened . but all that was found within it was a yellow stone . dschang liang was wandering with laotsze in the invisible world .
+<Question> why was dschang liang wandering with laotsze in the invisible world ?
+<Attribute> causal relationship
+<Ex_or_Im> implicit
+<Answer> his feigning illness loosed his soul from his body and disappeared .
+<END>
+
+

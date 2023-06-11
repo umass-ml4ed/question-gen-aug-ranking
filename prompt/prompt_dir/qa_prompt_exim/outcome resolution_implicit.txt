@@ -1,0 +1,41 @@
+<Example 1>
+<Context> but earl gregory only laughed . " i vowed that i would follow the green knight , " he replied , " and i will carry out my vow , even if the venture leadeth me close to the nethermost world . " and with these words he stepped over the edge of the circle , right in amongst the ghostly dancers . at his coming they shouted louder than ever , and danced more madly , and sang more lustily ; then , all at once , a silence fell upon them , and they parted into two companies , leaving a way through their midst , up which they signed to the earl to pass . he walked through their ranks till he came to the middle of the circle ; and there , seated at a table of red marble , was the knight whom he had come so far to seek , clad in his grass - green robes . and before him , on the table , stood a wondrous goblet , fashioned from an emerald , and set round the rim with blood - red rubies .
+<Question> what happened after earl gregory came to the middle of the circle ?
+<Attribute> outcome resolution
+<Ex_or_Im> implicit
+<Answer> the knight seated at a table of red marble .
+<END>
+
+<Example 2>
+<Context> when night came on she was let into the palace and lay down till the prince was in such a dead sleep that all she did could n't awake him . she sung this verse to him , sighing and sobbing , and kept singing it the night long , and it was all in vain : four long years i was married to thee ; three sweet babes i bore to thee ; brown bear of norway , turn to me . at the first dawn the proud lady was in the chamber , and led her away , and the footman of the horns put out his tongue at her as she was quitting the palace . so there was no luck so far ; but the next day the prince passed by again and looked at her , and saluted her kindly , as a prince might a farmer 's daughter , and passed one ; and soon the witch 's daughter passed by , and found her combing her hair , and pearls and diamonds dropping from it . well , another bargain was made , and the princess spent another night of sorrow , and she left the castle at daybreak , and the footman was at his post and enjoyed his revenge .
+<Question> what happened after the youngest princess came to the prince's chamber on the second night ?
+<Attribute> outcome resolution
+<Ex_or_Im> implicit
+<Answer> she failed to talk to him .
+<END>
+
+<Example 3>
+<Context> so she returned to the castle , and all arthur 's men went after her , and entered the hall . ' greeting to thee , yspaddaden penkawr , ' said they . ' we come to ask thy daughter olwen for kilweh , son of kilydd . ' ' come hither to - morrow and i will answer you , ' replied yspaddaden penkawr , and as they rose to leave the hall he caught up one of the three poisoned darts that lay beside him and flung it in their midst . but bedwyr saw and caught it , and flung it back so hard that it pierced the knee of yspaddaden . ' a gentle son - in - law , truly ! ' he cried , writhing with pain . ' i shall ever walk the worse for this rudeness . cursed be the smith who forged it , and the anvil on which it was wrought ! '
+<Question> what happened after bedwyr flung the poison dart back at yspaddaden ?
+<Attribute> outcome resolution
+<Ex_or_Im> implicit
+<Answer> yspaddaden was in pain .
+<END>
+
+<Example 4>
+<Context> " in the square below , " said the happy prince , " there stands a little match - girl . she has let her matches fall in the gutter , and they are all spoiled . her father will beat her if she does not bring home some money , and she is crying . she has no shoes or stockings , and her little head is bare . pluck out my other eye , and give it to her , and her father will not beat her . " " i will stay with you one night longer , " said the swallow , " but i can not pluck out your eye . you would be quite blind then . " " swallow , swallow , little swallow , " said the prince , " do as i command you . " so he plucked out the prince 's other eye , and darted down with it . he swooped past the match - girl , and slipped the jewel into the palm of her hand . " what a lovely bit of glass , " cried the little girl ; and she ran home , laughing . then the swallow came back to the prince . " you are blind now , " he said , " so i will stay with you always . " " no , little swallow , " said the poor prince , " you must go away to egypt . " " i will stay with you always , " said the swallow , and he slept at the prince 's feet .
+<Question> what did the swallow decide to do because the happy prince is blind ?
+<Attribute> outcome resolution
+<Ex_or_Im> implicit
+<Answer> stay with the happy prince forever .
+<END>
+
+<Example 5>
+<Context> now the king had three princesses , and they were to be carried off by three meer - women . so the king had it proclaimed that whoever could rescue them should receive one of them for a wife . when the day came on which the oldest princess was to be carried away , sheep - peter received a steed , a suit of armor and a sword from queen crane . with them he rode to the castle , fetched the princess , took her before him on his steed , and then lay down on the sea - shore to sleep . he had a dog with him as well . and while he slept the princess wove her hair - ribbon into his hair . suddenly the meer - woman appeared , and she awakened him and bade him mount his steed . many people had been standing there ; but when the meer - woman appeared they all took fright , and climbed into tall trees . but the youth said : " god aid me , and queen crane stay by me , and i will succeed ! " and then he slew the meer - woman . thereupon he rode quickly back to queen crane , took off his armor , and herded his sheep again . but among the on - lookers had been a nobleman , who threatened the princess , and forced her to say that he had rescued her . and from sheep - peter no one heard a word .
+<Question> what happened because sheep-peter rode away quickly after saving the princess ?
+<Attribute> outcome resolution
+<Ex_or_Im> implicit
+<Answer> no one knew he was the one who saved her .
+<END>
+
+

@@ -1,0 +1,41 @@
+<Example 1>
+<Context> when the ambassador rode into the courtyard of this house , and , holding out the shoe , asked if there were any fair ladies there who would like to try it on , the elder sister , who always thought a great deal of herself , ran forward , and said that she would do so , while the younger girl just shook her head and went on with her work . " for , " said she to herself , " though my feet are so little that they might go into the slipper , what would i do as the wife of a great prince ? folk would just laugh at me , and say that i was not fit for the position . no , no , i am far better to bide as i am . " so the ambassador gave the glass shoe to the elder sister , who carried it away to her own room ; and presently , to every one 's astonishment , came back wearing it on her foot . it is true that her face was very white , and that she walked with a little limp ; but no one noticed these things except her younger sister , and she only shook her wise little head , and said nothing . the prince 's ambassador was delighted that he had at last found a wife for his master , and he mounted his horse and rode off at full speed to tell him the good news . when the prince heard of the success of his errand , he ordered all his courtiers to be ready to accompany him next day when he went to bring home his bride . you can fancy what excitement there was at the laird 's house when the gallant company arrived , with their prince at their head , to greet the lady who was to be their princess . the old mother and the plain - looking maid - of - all - work ran hither and thither , fetching such meat and drink as the house could boast to set before their high - born visitors , while the bonnie little sister went and hid herself behind a great pot which stood in the corner of the courtyard , and which was used for boiling hen 's meat . 
+<Question> how will the ambassador feel when he finds a girl who fits the shoe ?
+<Attribute> prediction
+<Ex_or_Im> explicit
+<Answer> delighted .
+<END>
+
+<Example 2>
+<Context> " are the ladies beautiful ? " he asked anxiously . and when they answered that nobody had ever before seen such lovely princesses he seemed quite annoyed . however , he received them graciously , but found it impossible to choose between them . then turning to his youngest son he said : " have you come back alone , after all ? " " your majesty , " replied the prince , " will find in that crystal chair a little white cat , which has such soft paws , and mews so prettily , that i am sure you will be charmed with it . "
+<Question> what will the majesty find in that crystal chair ?
+<Attribute> prediction
+<Ex_or_Im> explicit
+<Answer> a little white cat .
+<END>
+
+<Example 3>
+<Context> saying this , he hung the badger up to the rafters of his storehouse and went out to his work in the fields . the badger was in great distress , for he did not at all like the idea of being made into soup that night , and he thought and thought for a long time , trying to hit upon some plan by which he might escape . it was hard to think clearly in his uncomfortable position , for he had been hung upside down . very near him , at the entrance to the storehouse , looking out towards the green fields and the trees and the pleasant sunshine , stood the farmer 's old wife pounding barley . she looked tired and old . her face was seamed with many wrinkles , and was as brown as leather , and every now and then she stopped to wipe the perspiration which rolled down her face .
+<Question> what will the badger try to do ?
+<Attribute> prediction
+<Ex_or_Im> explicit
+<Answer> escape .
+<END>
+
+<Example 4>
+<Context> once upon a time , in the city of shansi , there lived a scholar who found the company of others too noisy for him . so he made his home in a buddhist temple . yet he suffered because there were always so many gnats and fleas in his room that he could not sleep at night . once he was resting on his bed after dinner , when suddenly two little knights with plumes in their helmets rode into the room . they might have been two inches high , and rode horses about the size of grasshoppers . on their gauntleted hands they held hunting falcons as large as flies . they rode about the room with great rapidity . the scholar had no more than set eyes on them when a third entered , clad like the others , but carrying a bow and arrows and leading a little hunting dog the size of an ant with him . after him came a great throng of footmen and horsemen , several hundred in all . and they had hunting falcons and hunting dogs by the hundred , too . then the fleas and gnats began to rise in the air ; but were all slain by the falcons . and the hunting dogs climbed on the bed , and sniffed along the walls trailing the fleas , and ate them up . they followed the trace of whatever hid in the cracks , and nosed it out , so that in a short space of time they had killed nearly all the vermin . 
+<Question> how will the fleas be removed from the room ?
+<Attribute> prediction
+<Ex_or_Im> explicit
+<Answer> the hunting dogs will climb on the bed , and sniff along the walls trailing the fleas , and eat them up .
+<END>
+
+<Example 5>
+<Context> " keep on , my grandchild , " said the old man . " you will surely gain that you seek . to tell you more i am not permitted , but go on as you have begun and you will not be disappointed . to - morrow you will again reach one of my fellow old men , but the one you will see after him will tell you all , and the manner in which you must proceed to accomplish your journey . often has this red swan passed , and those who have followed it have never returned . you must be firm in your resolution , and be prepared for all that may happen . " " so will it be , " answered maidwa ; and they both laid down to sleep . early in the morning the old man ordered his magic kettle to prepare breakfast , so that his guest might eat before leaving . as maidwa passed out , the old man gave him a blessing with his parting advice . maidwa set forth in better spirits than at any time since he had started . night again found him in company with an old man who entertained him kindly , with a frisky little kettle which hurried up to the fire before it was spoken to , bustled about and set his supper briskly before maidwa , and frisked away again , without waiting for orders . the old man also carefully directed him on his way in the morning .
+<Question> who will tell maidwa the manner in which he must proceed to accomplish his journey ?
+<Attribute> prediction
+<Ex_or_Im> explicit
+<Answer> the one maidwa will see after one of the old man 's fellow old men .
+<END>
+
+

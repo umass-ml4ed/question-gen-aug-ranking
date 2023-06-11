@@ -1,0 +1,31 @@
+<Context> grandmother is dead now . she had been sitting in her arm - chair , telling us a long , beautiful tale ; and when it was finished , she said she was tired , and leaned her head back to sleep awhile . we could hear her gentle breathing as she slept ; gradually it became quieter and calmer , and on her countenance beamed happiness and peace . it was as if lighted up with a ray of sunshine . she smiled once more , and then people said she was dead . she was laid in a black coffin , looking mild and beautiful in the white folds of the shrouded linen , though her eyes were closed ; but every wrinkle had vanished , her hair looked white and silvery , and around her mouth lingered a sweet smile . we did not feel at all afraid to look at the corpse of her who had been such a dear , good grandmother . the hymn - book , in which the rose still lay , was placed under her head , for so she had wished it ; and then they buried grandmother .
+<Answer> not afraid .
+<Attribute> feeling
+<Question> how did the children feel when they looked at grandmother's corpse ?
+<END>
+
+<Context> now one of these young men had a bad and spiteful disposition . but he feigned kindness , and said to the hare : " i feel very sorry for you . if you will only try it , i know of a remedy which will cure your sore body . go and bathe yourself in the sea , and then come and sit in the wind . this will make your fur grow again , and you will be just as you were before . " then all the young men passed on . the hare was very pleased , thinking that he had found a cure . he went and bathed in the sea and then came out and sat where the wind could blow upon him . but as the wind blew and dried him , his skin became drawn and hardened , and the salt increased the pain so much that he rolled on the sand in his agony and cried aloud .
+<Answer> agony .
+<Attribute> feeling
+<Question> how did the hare feel when he was tricked by the young man ?
+<END>
+
+<Context> and now he met women who were carrying their basket - work , and painted paddles , and little boys , with their embellished war - clubs and bows and arrows , the gift of their friends . with this mighty throng , bokwewa was borne along for two days and nights , when he arrived at a country so still and shining , and so beautiful in its woods and groves and plains , that he knew it was here that he should find the lost spirit - wife . he had scarcely entered this fair country , with a sense of home and the return to things familiar strong upon him , when there appeared before him the lost spirit - wife herself , who , taking him by the hand , gave him welcome , saying , " my brother , i am glad to see you . welcome ! welcome ! you are now in your native land ! "
+<Answer> a sense of home and the return of things familiar strong upon him .
+<Attribute> feeling
+<Question> how did bokwewa feel when he entered the country ?
+<END>
+
+<Context> " there , " said he , as she sunk in the stream , " you would ever do what was forbidden . in life , as you sought those you should have avoided , so now you shall be avoided by those who should seek you . go , and be henceforth addum kum maig ! " the woman disappeared , was straightway carried by the rapid currents far out into the waters , and in the wide wilderness of shoreless depths , without companion or solace , was lost forever . the family of the hunter , grateful for his generous help , adopted the bird as their family emblem or mark , and under the guardianship of the crane that crossed the river , they prospered , with days of plenty and nights of peace .
+<Answer> grateful .
+<Attribute> feeling
+<Question> how did the hunter's family feel about the crane's help ?
+<END>
+
+<Context> she was such a dainty little creature that the astonished countryman stopped working , stuck his spade into the ground , and gazed at her in wonder . his wonder increased when she held up one of her tiny fingers and addressed him in these words : " what would you think if i were to send my husband to uncover your house ? you mortals think that you can do aught that pleases you . " then , stamping her tiny foot , she added in a voice of command , " put back that turf instantly , or you shall regret this day . " now the poor man had often heard of the fairy folk and of the harm that they could work to unthinking mortals who offended them , so in fear and trembling he set to work to undo all his labour , and to place every divot in the exact spot from which he had taken it .
+<Answer> scared .
+<Attribute> feeling
+<Question> how did the poor man feel after the small woman threatened him ?
+<END>
+
+

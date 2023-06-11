@@ -1,0 +1,31 @@
+<Context> the young prince bowed low before his aunt , and received her gracious gift with much pleasure and many respectful bows . " i will now set out , " said the prince , and returning to the palace he put himself at the head of his troops . thus cheered by his aunt 's blessing , he felt ready for all that might befall , and marching through the land he went down to the southern island of kiushiu , the home of the brigands .
+<Answer> the southern island of kyushu .
+<Attribute> setting
+<Question> where was the home of the brigands ?
+<END>
+
+<Context> after the wedding the newly married pairs were each to drive off to their castle . and the two older princesses each drove off in a splendidly decorated coach , with a large retinue , and all sorts of honors . but the youngest had to go afoot , since her husband , the dog , had neither coach nor driver . when they had wandered long and far , they came to a great forest , so great that it seemed endless ; but the dog limped along in advance , and the king 's daughter followed after , weeping . and as they went along she suddenly saw a magnificent castle lying before them , and round about it were beautiful meadows and green woods , all of them most enjoyable to see . the princess stopped and asked to whom the great mansion might belong .
+<Answer> a great forest .
+<Attribute> setting
+<Question> where did the young princess and lame dog come to ?
+<END>
+
+<Context> the house in which she dwelt was small and neat , but dreary to behold , for there were no flowers near it -- no trees . by the door stood a bee - hive , which was very useful . there was also a little potato - field , very useful , and an earth bank , with sloe bushes upon it , which had done blossoming . it now bore fruit , sloes , that draw one 's mouth together if one tastes them before the frost has touched them .
+<Answer> bee - hive .
+<Attribute> setting
+<Question> what stood beside the door ?
+<END>
+
+<Context> in balbo , nine miles from rude , dwelt another hero , bale , a good friend and companion - at - arms of starkad . one morning starkad climbed the klefberg in tuna , and called over to bale : " bale in balbo , are you awake ? "
+<Answer> balbo .
+<Attribute> setting
+<Question> where did bale live ?
+<END>
+
+<Context> that night the men slept in the house of custennin the herdsman , and the next day they proceeded to the castle , and entered the hall , and said : ' yspaddaden penkawr , give us thy daughter and thou shalt keep her dower . and unless thou wilt do this we will slay thee . ' ' her four great grandmothers and her four great grandfathers yet live , ' answered yspaddaden penkawr ; ' it is needful that i take counsel with them . ' ' be it so ; we will go to meat , ' but as they turned he took up the second dart that lay by his side and cast it after them . and menw caught it , and flung it at him , and wounded him in the chest , so that it came out at his back . ' a gentle son - in - law , truly ! ' cried yspaddaden , ' the iron pains me like the bite of a horse - leech . cursed be the hearth whereon it was heated , and the smith who formed it ! ' the third day arthur 's men returned to the palace into the presence of yspaddaden .
+<Answer> the house of custennin the herdsman .
+<Attribute> setting
+<Question> where did the seven men go after they met yspaddaden ?
+<END>
+
+

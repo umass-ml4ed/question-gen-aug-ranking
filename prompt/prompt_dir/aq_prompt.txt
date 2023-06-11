@@ -1,0 +1,43 @@
+<Context> although he provided for their support , the little spirit never performed household or hard work of any kind , and his sister obeyed . when she had made the weapons , which , though they were very small , were beautifully wrought and of the best stuff the field and wood could furnish , she again cautioned him not to shoot into the lake . " she thinks , " said the boy - man to himself , " i can see no further into the water than she . my sister shall learn better . " regardless of her warnings , he on purpose discharged a shaft into the lake . he waded out into the water till he got into its depth , and paddled about for his arrow , so as to call the attention of his sister , and as if to show that he hardily braved her advice . she hurried to the shore , calling on him to return . but instead of heeding her , he cried out : " you of the red fins , come and swallow me ! " although his sister did not clearly understand whom her brother was addressing , she too called out : " do n't mind the foolish boy ! " the boy - man 's order seemed to be best attended to , for immediately a monstrous fish came and swallowed him . before disappearing entirely , catching a glimpse of his sister standing in despair upon the shore , the boy - man hallooed out to her : " me - zush - ke - zin - ance ! " she wondered what he meant . at last it occurred to her that it must be an old moccasin . she accordingly ran to the lodge , and bringing one , she tied it to a string attached to a tree , and cast it into the water .
+<Answer> he needed an old moccasin .
+<Attribute> causal relationship
+<Question> why did the boy say "me-zush-ke-zin-ance" ?
+<END>
+
+<Context> then a little frog , with bright jewelled eyes , and a green mottled coat , swam up to him . " a new arrival , i see ! " said the frog . " well , after all there is nothing like mud . give me rainy weather and a ditch , and i am quite happy . do you think it will be a wet afternoon ? i am sure i hope so , but the sky is quite blue and cloudless . what a pity ! " " ahem ! ahem ! " said the rocket , and he began to cough . " what a delightful voice you have ! " cried the frog . " really it is quite like a croak , and croaking is of course the most musical sound in the world . you will hear our glee - club this evening . we sit in the old duck pond close by the farmer 's house , and as soon as the moon rises we begin . it is so entrancing that everybody lies awake to listen to us . in fact , it was only yesterday that i heard the farmer 's wife say to her mother that she could not get a wink of sleep at night on account of us . it is most gratifying to find oneself so popular . "
+<Answer> a little frog .
+<Attribute> character
+<Question> who did the rocket meet after falling into the mud ?
+<END>
+
+<Context> it was the first time for long that the two men had come face to face , and they looked at each other in silence . then tears rose in the eyes of the elder , but winking them hastily away , he said : ' brother , it is not needful that i should tell you how poor i am ; you can see that for yourself . i have not come to beg for money , but only to ask if you will give me those unfinished houses of yours in the city , and i will make them watertight , so that my wife and children can live in them , and that will save our rent . for as they are , they profit you nothing . ' and the younger brother listened and pitied him , and gave him the houses that he asked for , and the elder went away happy .
+<Answer> unfinished houses .
+<Attribute> action
+<Question> what did the elder son ask for ?
+<END>
+
+<Context> grandmother is dead now . she had been sitting in her arm - chair , telling us a long , beautiful tale ; and when it was finished , she said she was tired , and leaned her head back to sleep awhile . we could hear her gentle breathing as she slept ; gradually it became quieter and calmer , and on her countenance beamed happiness and peace . it was as if lighted up with a ray of sunshine . she smiled once more , and then people said she was dead . she was laid in a black coffin , looking mild and beautiful in the white folds of the shrouded linen , though her eyes were closed ; but every wrinkle had vanished , her hair looked white and silvery , and around her mouth lingered a sweet smile . we did not feel at all afraid to look at the corpse of her who had been such a dear , good grandmother . the hymn - book , in which the rose still lay , was placed under her head , for so she had wished it ; and then they buried grandmother .
+<Answer> not afraid .
+<Attribute> feeling
+<Question> how did the children feel when they looked at grandmother's corpse ?
+<END>
+
+<Context> then addressing the sea she said : " i will take the place of his augustness , yamato take . i will now cast myself into your outraged depths , giving my life for his . therefore hear me and bring him safely to the shore of kadzusa . " with these words she leaped quickly into the boisterous sea , and the waves soon whirled her away and she was lost to sight . strange to say , the storm ceased at once , and the sea became as calm and smooth as the matting on which the astonished onlookers were sitting . the gods of the sea were now appeased , and the weather cleared and the sun shone as on a summer 's day .
+<Answer> the storm ceased at once .
+<Attribute> outcome resolution
+<Question> what happened after ototachibana sacrificed her life ?
+<END>
+
+<Context> but earl st . clair forgot that he carried a talisman which his companion lacked , that enabled him to see things as they really were , while the other 's eyes were holden , and he was startled and amazed when earl gregory said sharply , " thy mind hath gone mad over this elfin king . i tell thee he who passed was a goodly knight , clad in a green vesture , and riding on a great black jennet . and because i love a gallant horseman , and would fain learn his name and degree , i will follow him till i find him , even if it be at the world 's end . " and without another word he put spurs to his horse and galloped off in the direction which the mysterious stranger had taken , leaving earl st . clair alone upon the moorland , his fingers touching the sacred sign and his trembling lips muttering prayers for protection . for he knew that his friend had been bewitched , and he made up his mind , brave gentleman that he was , that he would follow him to the world 's end , if need be , and try to deliver him from the spell that had been cast over him . meanwhile earl gregory rode on and on , ever following in the wake of the knight in green , over moor , and burn , and moss , till he came to the most desolate region that he had ever been in in his life ; where the wind blew cold , as if from snow - fields , and where the hoar - frost lay thick and white on the withered grass at his feet . and there , in front of him , was a sight from which mortal man might well shrink back in awe and dread . for he saw an enormous ring marked out on the ground , inside of which the grass , instead of being withered and frozen , was lush , and rank , and green , where hundreds of shadowy elfin figures were dancing , clad in loose transparent robes of dull blue , which seemed to curl and twist round their wearers like snaky wreaths of smoke . these weird goblins were shouting and singing as they danced , and waving their arms above their heads , and throwing themselves about on the ground , for all the world as if they had gone mad ; and when they saw earl gregory halt on his horse just outside the ring they beckoned to him with their skinny fingers . 
+<Answer> he will meet goblins .
+<Attribute> prediction
+<Question> what will happen after earl gregory follows the horseman ?
+<END>
+
+<Context> the young prince bowed low before his aunt , and received her gracious gift with much pleasure and many respectful bows . " i will now set out , " said the prince , and returning to the palace he put himself at the head of his troops . thus cheered by his aunt 's blessing , he felt ready for all that might befall , and marching through the land he went down to the southern island of kiushiu , the home of the brigands .
+<Answer> the southern island of kyushu .
+<Attribute> setting
+<Question> where was the home of the brigands ?
+<END>
+
+

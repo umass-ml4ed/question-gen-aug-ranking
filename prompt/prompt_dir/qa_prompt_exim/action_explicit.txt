@@ -1,0 +1,41 @@
+<Example 1>
+<Context> then a wild chase began . ' i hear horses ' hoofs behind us , ' said hyacinthia to the prince . milan sprang from the saddle , put his ear to the ground and listened . ' yes , ' he answered , ' they are pursuing us , and are quite close . ' ' then no time must be lost , ' said hyacinthia , and she immediately turned herself into a river , prince milan into an iron bridge , and the charger into a blackbird . behind the bridge the road branched off into three ways . the magician 's servants hurried after the fresh tracks , but when they came to the bridge , they stood , not knowing which road to take , as the footprints stopped suddenly , and there were three paths for them to choose from . in fear and trembling they returned to tell the magician what had happened . he flew into a dreadful rage when he saw them , and screamed out , ' oh , you fools ! the river and bridge were they ! go back and bring them to me at once , or it will be the worse for you . '
+<Question> what did hyacinthia turned herself into ?
+<Attribute> action
+<Ex_or_Im> explicit
+<Answer> a river .
+<END>
+
+<Example 2>
+<Context> oh , what a good supper jack had that night , quite forgetting that he owed it to a mean trick . the next day he breakfasted early , and then walked on towards the nearest town . on the way thither he met another old man , who begged for something to eat . ' certainly , you shall have something to eat , ' replied jack . and , placing the table on the ground he cried : ' the dinner of an emperor ! ' when all sorts of food dishes appeared . at first the old man ate quite greedily , and said nothing ; but , after his hunger was satisfied , he turned to jack and said : ' that is a very clever trick of yours . give the table to me and you shall have something still better . ' ' i do n't believe that there is anything better , ' answered jack . ' yes , there is . here is my bag ; it will give you as many castles as you can possibly want . '
+<Question> what could the old man's bag do ?
+<Attribute> action
+<Ex_or_Im> explicit
+<Answer> give jack as many castles as he can possibly want .
+<END>
+
+<Example 3>
+<Context> " what a beautiful woman ! where has she come from ? " said the astonished kumaso , forgetting war and council and everything as he looked at the gentle intruder . he beckoned to the disguised prince and bade him sit down and serve them with wine . yamato take felt his heart swell with a fierce glee for he now knew that his plan would succeed . however , he dissembled cleverly , and putting on a sweet air of shyness he approached the rebel chief with slow steps and eyes glancing like a frightened deer . charmed to distraction by the girl 's loveliness kumaso drank cup after cup of wine for the pleasure of seeing her pour it out for him , till at last he was quite overcome with the quantity he had drunk .
+<Question> what did kumaso bade the disguised prince to do ?
+<Attribute> action
+<Ex_or_Im> explicit
+<Answer> sit down and serve them with wine .
+<END>
+
+<Example 4>
+<Context> she entered her lodge and laid off her mantle , which was entirely composed of the scalps of women . before folding it , she shook it several times , and at every shake the scalps uttered loud shouts of laughter , in which the old hag joined . the boy , who lingered at the door , was greatly alarmed , but he uttered no cry . after laying by the cloak , she came directly to him . looking at him steadily , she informed him that she had known him from the time he had left his father 's lodge , and had watched his movements . she told him not to fear or despair , for she would be his protector and friend . she invited him into her lodge , and gave him a supper . during the repast , she questioned him as to his motives for visiting her . he related his history , stated the manner in which he had been disgraced , and the difficulties he labored under . " now tell me truly , " said the little old woman who makes war , " you were afraid to go to the water in the dark . "
+<Question> what did the witch tell strong desire ?
+<Attribute> action
+<Ex_or_Im> explicit
+<Answer> she had known him from the time he had left his father 's lodge , and had watched his movements .
+<END>
+
+<Example 5>
+<Context> a coupling was put between me and the cradle , and when everyone went to sleep i was watching till the person woke who attended in the daytime ; but i was there only two nights when , it was near the day , i saw the hand coming down through the chimney , and the hand was so big that it took round the child altogether , and thought to take him away . i caught hold of the hand above the wrist , and , as i was fastened to the cradle , i did not let go my hold till i cut the hand from the wrist , and there was a howl from the person without . i laid the hand in the cradle with the child , and , as i was tired , i fell asleep . when i awoke i had neither child nor hand . i began to howl , and the king heard me , and he cried out that something was wrong with me , and he sent servants to see what was the matter with me , and when the messenger came he saw me covered with blood , and he could not see the child . he went to the king , and told him the child was not to be got . the king came , and saw the cradle coloured with the blood , and he cried out , " where was the child gone ? " and everyone said it was the dog had eaten it . the king said , " it is not : loose him , and he will get the pursuit himself . " when i was loosed , i found the scent of the blood till i came to a door of the room in which the child was . i went to the king , and took hold of him , and went back again , and began to tear at the door . the king followed me , and asked for the key . the servant said it was in the room of the stranger woman . the king caused search to be made for her , and she was not to be found . " i will break the door , " said the king , " as i ca n't get the key . " the king broke the door , and i went in , and went to the trunk , and the king asked for a key to unlock it . he got no key , and he broke the lock . when he opened the trunk the child and the hand were stretched side by side , and the child was asleep . the king took the hand , and ordered a woman to come for the child , and he showed the hand to everyone in the house . but the stranger woman was gone , and she did not see the king ; and here she is herself to say if i am telling lies of her .
+<Question> what did the messenger see when he came ?
+<Attribute> action
+<Ex_or_Im> explicit
+<Answer> the wolf covered with blood .
+<END>
+
+

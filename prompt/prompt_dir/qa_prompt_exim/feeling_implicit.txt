@@ -1,0 +1,41 @@
+<Example 1>
+<Context> li dsing was now angry with his son in earnest . therefore notscha 's mother sent him to the rear of the house to keep out of his father 's sight . notscha disappeared and went to his master , in order to ask him what he should do when the dragon returned . his master advised him and notscha went back home . and all the dragon kings of the four seas were assembled , and had bound his parents , with cries and tumult , in order to punish them . notscha ran up and cried with a loud voice : " i will take the punishment for whatever i have done ! my parents are blameless ! what is the punishment you wish to lay upon me ? " " life for life ! " said the dragon . " very well then , i will destroy myself ! " and so he did and the dragons went off satisfied ; while notscha 's mother buried him with many tears .
+<Question> how did nostcha's mother feel when her son destroyed himself ?
+<Attribute> feeling
+<Ex_or_Im> implicit
+<Answer> sad .
+<END>
+
+<Example 2>
+<Context> at last tom came to one of the city gates , and the guards laughed and cursed at him instead of letting him through . tom stood it all for a little time , but at last one of them -- out of fun , as he said -- drove his bagnet half an inch or so into his side . tom did nothing but take the fellow by the scruff of his neck and the waistband of his corduroys and fling him into the canal . some ran to pull the fellow out , and others to let manners into the vulgarian with their swords and daggers . but a tap from his club sent them headlong into the moat or down on the stones , and they were soon begging him to stay his hands . so at last one of them was glad enough to show tom the way to the palace yard . there was the king and the queen , and the princess in a gallery , looking at all sorts of wrestling and sword - playing , and rinka - fadhas ( long dances ) and mumming , all to please the princess . but not a smile came over her handsome face . well , they all stopped when they seen the young giant , with his boy 's face and long black hair , and his short curly beard -- for his poor mother could n't afford to buy razhurs -- and his great strong arms and bare legs , and no covering but the goat - skin that reached from his waist to his knees . but an envious wizened basthard of a fellow , with a red head , that wished to be married to the princess , and did n't like how she opened her eyes at tom , came forward , and asked his business very snappishly .
+<Question> how will the guards feel when tom attacks them ?
+<Attribute> feeling
+<Ex_or_Im> implicit
+<Answer> scared .
+<END>
+
+<Example 3>
+<Context> the young woman did not know what to think of his actions . her husband did not act queerly at other times . but she thought : " one should not try to discover the secrets of others , " and said nothing .
+<Question> how did the young woman feel about lillwacker ?
+<Attribute> feeling
+<Ex_or_Im> implicit
+<Answer> suspicious .
+<END>
+
+<Example 4>
+<Context> it was a charming place to lie upon , and he fell asleep . while sleeping , the sun beat so hot upon him that it not only singed his bird - skin coat , but it so shrivelled and shrunk and tightened it upon the little boy 's body , as to wake him up . when he felt how the sun had seared and the mischief its fiery beams had played with the coat he was so proud of , he flew into a great passion , and berated the sun in a terrible way for a little boy no higher than a man 's knee . he vowed fearful things against it . " do not think you are too high , " said he ; " i shall revenge myself . oh , sun ! i will have you for a plaything yet . " on coming home he gave an account of his misfortune to his sister , and bitterly bewailed the spoiling of his new coat . he would not eat - not so much as a single berry . he lay down as one that fasts ; nor did he move nor change his manner of lying for ten full days , though his sister strove to prevail on him to rise . at the end of ten days he turned over , and then he lay full ten days on the other side .
+<Question> how will the boy feel when the sun seared its fiery beams on the coat the boy was so proud of ?
+<Attribute> feeling
+<Ex_or_Im> implicit
+<Answer> angry .
+<END>
+
+<Example 5>
+<Context> ' i am so hungry , ' said lisa . ' yes , ' said aina , ' if we had only two good meat sandwiches now . ' as she said that , she felt something in her hand , and when she looked down , she saw a large sandwich of bread and chicken , and at the same time lisa said : ' how very queer ! i have a sandwich in my hand . ' ' and i , too , ' said aina . ' will you dare to eat it ? ' ' of course i will , ' said lisa . ' ah , if we only had a good glass of milk now ! '
+<Question> how did aina feel after a sandwich appeared in her hand ?
+<Attribute> feeling
+<Ex_or_Im> implicit
+<Answer> surprised .
+<END>
+
+

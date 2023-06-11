@@ -1,0 +1,41 @@
+<Example 1>
+<Context> canonbie dick was apt to get very thirsty . his ordinary customers , knowing this , took care always to provide him with something to drink . the old man never did so . he paid down his money and led away his horses . there was an end of the matter . but one night , dick , being even more thirsty than usual . he was feeling sure that his mysterious friend must live somewhere in the neighbourhood . he saw that he was always wandering about the hillside when everyone else was asleep . he hinted that he would be very glad to go home with him and have a little refreshment .
+<Question> how was the stranger different from canonbie dick's ordinary customers ?
+<Attribute> character
+<Ex_or_Im> implicit
+<Answer> the old man never provided him with something to drink .
+<END>
+
+<Example 2>
+<Context> in the skalunda mountain , near the church , there once lived a giant in the early days , who no longer felt comfortable after the church had been built there . he decided that he could no longer stand the ringing of the church bells ; so he emigrated and settled down on an island far out in the north sea . once upon a time a ship was wrecked on this island , and among those saved were several people from skalunda . " from where do you hail ? " asked the giant , who by now had grown old and blind , and sat warming himself before a log fire . " we are from skalunda , " said one of the men saved . " give me your hand , so that i may feel whether there is still warm blood to be found in the swedish land , " said the giant . 
+<Question> what did the giant and several men from the shipwreck have in common ?
+<Attribute> character
+<Ex_or_Im> implicit
+<Answer> they are from skalunda .
+<END>
+
+<Example 3>
+<Context> now the princess was indeed unhappy , and could no longer bear to stay in a place where she had been so cruelly disdained . so , without even bidding farewell to the king and queen , she left the valley behind her , and wandered sadly away , not caring whither . after walking until she was weary , she saw before her a tiny house , and turned her slow steps towards it . the nearer she approached the more miserable it appeared , and at length she saw a little old woman sitting upon the door - step , who said grimly : ' here comes one of these fine beggars who are too idle to do anything but run about the country ! ' ' alas ! madam , ' said celandine , with tears in her pretty eyes , ' a sad fate forces me to ask you for shelter . ' ' did n't i tell you what it would be ? ' growled the old hag . ' from shelter we shall proceed to demand supper , and from supper money to take us on our way . upon my word , if i could be sure of finding some one every day whose head was as soft as his heart , i would n't wish for a more agreeable life myself ! but i have worked hard to build my house and secure a morsel to eat , and i suppose you think that i am to give away everything to the first passer - by who chooses to ask for it . not at all ! i wager that a fine lady like you has more money than i have . i must search her , and see if it is not so , ' she added , hobbling towards celandine with the aid of her stick . ' alas ! madam , ' replied the princess , ' i only wish i had . i would give it to you with all the pleasure in life . ' ' but you are very smartly dressed for the kind of life you lead , ' continued the old woman . ' what ! ' cried the princess , ' do you think i am come to beg of you ? ' ' i do n't know about that , ' answered she ; ' but at any rate you do n't seem to have come to bring me anything . but what is it that you do want ? shelter ? well , that does not cost much ; but after that comes supper , and that i ca n't hear of . oh dear no ! why , at your age one is always ready to eat ; and now you have been walking , and i suppose you are ravenous ? ' ' indeed no , madam , ' answered the poor princess , ' i am too sad to be hungry . ' ' oh , well ! if you will promise to go on being sad , you may stay for the night , ' said the old woman mockingly . there upon she made the princess sit down beside her , and began fingering her silken robe , while she muttered ' lace on top , lace underneath ! this must have cost you a pretty penny ! it would have been better to save enough to feed yourself , and not come begging to those who want all they have for themselves . pray , what may you have paid for these fine clothes ? ' ' alas ! madam , ' answered the princess , ' i did not buy them , and i know nothing about money . ' ' what do you know , if i may ask ? ' said the old dame . ' not much ; but indeed i am very unhappy , ' cried celandine , bursting into tears , ' and if my services are any good to you-- ' ' services ! ' interrupted the hag crossly . ' one has to pay for services , and i am not above doing my own work . ' ' madam , i will serve you for nothing , ' said the poor princess , whose spirits were sinking lower and lower . ' i will do anything you please ; all i wish is to live quietly in this lonely spot . ' 
+<Question> what kind of person was the old woman ?
+<Attribute> character
+<Ex_or_Im> implicit
+<Answer> selfish .
+<END>
+
+<Example 4>
+<Context> for some years things went on as they were , and then the rich brother began to feel lonely , and thought to himself that he was getting older , and it was time for him to be married . the wife he chose was very wealthy , but she was also very greedy , and however much she had , she always wanted more . she was , besides , one of those unfortunate people who invariably fancy that the possessions of other people must be better than their own . many a time her poor husband regretted the day that he had first seen her , and often her meanness and shabby ways put him to shame . but he had not the courage to rule her , and she only got worse and worse . after she had been married a few months the bride wanted to go into the city and buy herself some new dresses . she had never been there before , and when she had finished her shopping , she thought she would pay a visit to her unknown sister - in - law , and rest for a bit . the house she was seeking was in a broad street , and ought to have been very magnificent , but the carved stone portico enclosed a mean little door of rough wood , while a row of beautiful pillars led to nothing . the dwelling on each side were in the same unfinished condition , and water trickled down the walls . most people would have considered it a wretched place , and turned their backs on it as soon as they could , but this lady saw that by spending some money the houses could be made as splendid as they were originally intended to be , and she instantly resolved to get them for herself .
+<Question> who was very wealthy and greedy ?
+<Attribute> character
+<Ex_or_Im> implicit
+<Answer> the younger brother 's wife .
+<END>
+
+<Example 5>
+<Context> long , long ago there lived , in japan a brave warrior known to all as tawara toda , or " my lord bag of rice . " his true name was fujiwara hidesato , and there is a very interesting story of how he came to change his name .
+<Question> how many names did tawara toda have ?
+<Attribute> character
+<Ex_or_Im> implicit
+<Answer> three .
+<END>
+
+

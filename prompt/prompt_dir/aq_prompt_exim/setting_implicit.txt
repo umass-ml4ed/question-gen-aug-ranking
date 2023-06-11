@@ -1,0 +1,36 @@
+<Context> it was the first time for long that the two men had come face to face , and they looked at each other in silence . then tears rose in the eyes of the elder , but winking them hastily away , he said : ' brother , it is not needful that i should tell you how poor i am ; you can see that for yourself . i have not come to beg for money , but only to ask if you will give me those unfinished houses of yours in the city , and i will make them watertight , so that my wife and children can live in them , and that will save our rent . for as they are , they profit you nothing . ' and the younger brother listened and pitied him , and gave him the houses that he asked for , and the elder went away happy . for some years things went on as they were , and then the rich brother began to feel lonely , and thought to himself that he was getting older , and it was time for him to be married . the wife he chose was very wealthy , but she was also very greedy , and however much she had , she always wanted more . she was , besides , one of those unfortunate people who invariably fancy that the possessions of other people must be better than their own . many a time her poor husband regretted the day that he had first seen her , and often her meanness and shabby ways put him to shame . but he had not the courage to rule her , and she only got worse and worse . after she had been married a few months the bride wanted to go into the city and buy herself some new dresses . she had never been there before , and when she had finished her shopping , she thought she would pay a visit to her unknown sister - in - law , and rest for a bit . the house she was seeking was in a broad street , and ought to have been very magnificent , but the carved stone portico enclosed a mean little door of rough wood , while a row of beautiful pillars led to nothing . the dwelling on each side were in the same unfinished condition , and water trickled down the walls . most people would have considered it a wretched place , and turned their backs on it as soon as they could , but this lady saw that by spending some money the houses could be made as splendid as they were originally intended to be , and she instantly resolved to get them for herself . 
+<Answer> in the unfinished houses .
+<Attribute> setting
+<Ex_or_Im> implicit
+<Question> where did the bride's unknown sister-in-law live ?
+<END>
+
+<Context> but bokwewa watched closely every word that fell from her lips , and often forgot , like her , all mortal appetite and care of the body , in conferring with her , and noting what she had to say of spirits and fairies , of stars , and streams that never ceased to flow , and the delight of the happy hunting - grounds , and the groves of the blessed . one day kwasynd had gone out as usual , and bokwewa was sitting in the lodge , on the opposite side to his brother 's wife , when she suddenly exclaimed : " i must leave you , " as a tall young man , whose face was like the sun in its brightness , entered , and taking her by the hand he led her to the door . she made no resistance , but turning as she left the lodge , she cast upon bokwewa a smile of kind regard , and was at once , with her companion , gone from his view . he ran to the door and glanced about . he saw nothing ; but looking far off in the sky , he thought that he could discover , at a great distance , a shining track , and the dim figures of two who were vanishing in heaven . when his brother returned , bokwewa related all to him exactly as it had happened . the face of kwasynd changed , and was dark as the night . for several days he would not taste food . sometimes he would fall to weeping for a long time , and now only it seemed that he remembered how gentle and beautiful had been the ways of her who was lost . at last he said that he would go in search of her . 
+<Answer> heaven .
+<Attribute> setting
+<Ex_or_Im> implicit
+<Question> where did the woman and her companion vanish to ?
+<END>
+
+<Context> and the sister wept over her poor lost brother , and the fawn wept also , and stayed sadly beside her . at last the maiden said , " be comforted , dear fawn , indeed i will never leave you . " then she untied her golden girdle and bound it round the fawn 's neck , and went and gathered rushes to make a soft cord , which she fastened to him ; and then she led him on , and they went deeper into the forest . and when they had gone a long long way , they came at last to a little house , and the maiden looked inside , and as it was empty she thought , " we might as well live here . " and she fetched leaves and moss to make a soft bed for the fawn , and every morning she went out and gathered roots and berries and nuts for herself , and fresh grass for the fawn , who ate out of her hand with joy , frolicking round her . at night , when the sister was tired , and had said her prayers , she laid her head on the fawn 's back , which served her for a pillow , and softly fell asleep . and if only the brother could have got back his own shape again , it would have been a charming life . so they lived a long while in the wilderness alone . now it happened that the king of that country held a great hunt in the forest . the blowing of the horns , the barking of the dogs , and the lusty shouts of the huntsmen sounded through the wood , and the fawn heard them and was eager to be among them . " oh , " said he to his sister , " do let me go to the hunt ; i can not stay behind any longer , " and begged so long that at last she consented . 
+<Answer> in a little house in the woods .
+<Attribute> setting
+<Ex_or_Im> implicit
+<Question> where did the sister and fawn decide to live ?
+<END>
+
+<Context> lucie , knocked -- once -- twice , and interrupted the song . a little frightened voice called out " who 's that ? " lucie opened the door : and what do you think there was inside the hill?--a nice clean kitchen with a flagged floor and wooden beams -- just like any other farm kitchen . only the ceiling was so low that lucie 's head nearly touched it ; and the pots and pans were small , and so was everything there . there was a nice hot singey smell ; and at the table , with an iron in her hand stood a very stout short person staring anxiously at lucie . her print gown was tucked up , and she was wearing a large apron over her striped petticoat . her little black nose went sniffle , sniffle , snuffle , and her eyes went twinkle , twinkle ; and underneath her cap -- where lucie had yellow curls -- that little person had prickles !
+<Answer> flaged floor and wooden beams .
+<Attribute> setting
+<Ex_or_Im> implicit
+<Question> how does the story describe the kitchen ?
+<END>
+
+<Context> " now i am in a nice place , " said he ; " my gilding will soon be washed off here . oh dear , what a set of rabble i have got amongst ! " and then he glanced at a curious round thing like an old apple , which lay near a long , leafless cabbage - stalk . it was , however , not an apple , but an old ball , which had lain for years in the gutter , and was soaked through with water .
+<Answer> in the gutter .
+<Attribute> setting
+<Ex_or_Im> implicit
+<Question> where did the ball lay for several years ?
+<END>
+
+

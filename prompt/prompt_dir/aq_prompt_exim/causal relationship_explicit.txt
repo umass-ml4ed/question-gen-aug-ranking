@@ -1,0 +1,36 @@
+<Context> all would have gone well if farquhar had only looked where he was going . he did not , being deeply engaged in making love to a young fairy maiden by his side , so he never saw a cottage that was standing right in his way . he struck against the chimney and stuck fast in the thatch . his companions sped merrily on , not noticing what had befallen him . he was left to disentangle himself as best he could . as he was doing so he chanced to glance down the wide chimney . in the cottage kitchen he saw a comely young woman dandling a rosy - cheeked baby .
+<Answer> his companions sped merrily on , not noticing what had befallen him .
+<Attribute> causal relationship
+<Ex_or_Im> explicit
+<Question> why didn't his companions help farquhar out of the thatch ?
+<END>
+
+<Context> in this manner the weendigo and the hunter 's family lived for some time , and it surprised them that the monster never attempted their lives ; although he never slept at night , but always went out and returned , by the break of day , stained with blood , and looking very wild and famished . when there was no deer to be had wherewith to finish his repast , he said nothing . in truth he was always still and gloomy , and he seldom spoke to any of them ; when he did , his discourse was chiefly addressed to the boy . one evening , after he had thus sojourned with them for many weeks , he informed the hunter that the time had now arrived for him to take his leave , but that before doing so , he would give him a charm that would bring good luck to his lodge . he presented to him two arrows , and thanking the hunter and his wife for their kindness , the weendigo departed , saying , as he left them , that he had all the world to travel over . the hunter and his wife were happy when he was gone , for they had looked every moment to have been devoured by him . he tried the arrows , and they never failed to bring down whatever they were aimed at . they had lived on , prosperous and contented , for a year , when , one day , the hunter being absent , his wife on going out of the lodge , saw something like a black cloud approaching .
+<Answer> the monster never attempted their lives .
+<Attribute> causal relationship
+<Ex_or_Im> explicit
+<Question> why was the hunter's family surprised ?
+<END>
+
+<Context> the charcoal - burner and his wife both stared at him for a moment , as if they could hardly believe their ears . indeed , it was not to be wondered at ! then they found their tongues , and exclaimed together : ' oh , yes , yes , my lord ! we will do everything you tell us . how could we be so ungrateful as to disobey you , when you are so kind ? ' the king smiled , and his eyes twinkled . ' well , let us start at once , ' said he . ' lock your door , and put the key in your pocket . ' the woman looked as if she thought this was needless , seeing it was quite , quite certain they would never come back . but she dared not say so , and did as the king told her . after walking through the forest for a couple of miles , they all three reached the palace . by the king 's orders , servants led the charcoal - burner and his wife into rooms filled with beautiful things such as they had never even dreamed of . first , they bathed in green marble baths where the water looked like the sea . then , they put on silken clothes that felt soft and pleasant . when they were ready , one of the king 's special servants entered , and took them into a small hall , where dinner was laid . this pleased them better than anything else .
+<Answer> it was quite , quite certain they would never come back .
+<Attribute> causal relationship
+<Ex_or_Im> explicit
+<Question> why did the woman think it was needless to lock their door ?
+<END>
+
+<Context> " i do n't mind , " bleated a young lamb named frisky , as it kicked up its heels and gambolled about upon the grass ; " it 's nice to have all that heavy wool cut off my back , for i sha'n't have to carry it around wherever i go . " " oh , indeed ! " sneered the ram , " you like it , do you ? have you any idea what you look like , all sheared down to your skin ? how would you like to have someone come along and see you , now that you are all head and legs ? "
+<Answer> he sha'n't have to carry it around where he goes .
+<Attribute> causal relationship
+<Ex_or_Im> explicit
+<Question> why did frisky not mind having his wool cut off ?
+<END>
+
+<Context> peter sat down to rest ; he was out of breath and trembling with fright , and he had not the least idea which way to go . also he was very damp with sitting in that can . after a time he began to wander about , going lippity -- lippity -- not very fast , and looking all around . he found a door in a wall ; but it was locked , and there was no room for a fat little rabbit to squeeze underneath . an old mouse was running in and out over the stone doorstep , carrying peas and beans to her family in the wood . peter asked her the way to the gate , but she had such a large pea in her mouth that she could not answer . she only shook her head at him . peter began to cry .
+<Answer> she had such a large pea in her mouth that she could not answer .
+<Attribute> causal relationship
+<Ex_or_Im> explicit
+<Question> why wasn't the old mouse able to answer ?
+<END>
+
+

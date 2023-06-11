@@ -1,0 +1,41 @@
+<Example 1>
+<Context> when he had returned , he was sick with longing , and could neither eat nor sleep . mother hia brought him all sorts of dainties , looked after him three or four times a day , and stroked his forehead with loving care . but his illness did not yield in the least . mother hia was unhappy , and yet helpless . " the birthday of the king of the wu river is at hand , " said she . " what is to be done ? "
+<Question> how did mother hia feel when aduan was sick ?
+<Attribute> feeling
+<Ex_or_Im> explicit
+<Answer> unhappy .
+<END>
+
+<Example 2>
+<Context> the father coming in the evening to visit the lodge of his daughters , discovered what had happened . he immediately sent word to his son that his sisters had been slain , and that there were no more spoils to be had , which greatly inflamed the young man 's temper , especially the woeful announcement at the close . " the person who has done this , " said the brother , as soon as he had reached the spot , chafing and half beside himself at the gloomy prospect of having no more travelers to strip , " must be that boy who carries the ball on his back . i know his mode of going about his business , and since he would not allow himself to be killed by my sisters , he shall have the honor of dying by my hand . i will pursue him and have revenge . " " it is well , my son , " replied the father ; " the spirit of your life grant you success . i counsel you to be wary in the pursuit . bahmondang is a cunning youth . it is a strong spirit who has put him on to do this injury to us , and he will try to deceive you in every way . above all , avoid tasting food till you succeed ; for if you break your fast before you see his blood , your power will be destroyed . "
+<Question> how did the brother feel when the father told him his sisters were slain ?
+<Attribute> feeling
+<Ex_or_Im> explicit
+<Answer> greatly inflamed .
+<END>
+
+<Example 3>
+<Context> it was a long way to the castle , and he hurried and ran in order to get there in good time . toward evening he spied the castle , and it was much handsomer than both the others . this time he felt hardly any fear at all ; but went through the kitchen and right on in . there sat a princess who was extraordinarily beautiful . like the others , she said that no christian soul had ever come to the castle since she had been there , and told him to go away again , as otherwise the troll would swallow him alive , for he had nine heads . " and though he had nine more , and nine on top of those , i will not go , " said halvor , and stood by the stove . the princess earnestly begged him to go , so that the troll would not devour him , but halvor said : " let him come whenever he wishes ! " then she gave him the troll sword , and told him to take a swallow from the bottle , so that he could swing it .
+<Question> how did halvor feel as saw the third castle ?
+<Attribute> feeling
+<Ex_or_Im> explicit
+<Answer> hardly any fear at all .
+<END>
+
+<Example 4>
+<Context> " my business , " says tom , says he , " is to make the beautiful princess , god bless her , laugh three times . " " do you see all them merry fellows and skilful swordsmen , " says the other , " that could eat you up with a grain of salt , and not a mother 's soul of them ever got a laugh from her these seven years ? " so the fellows gathered round tom , and the bad man aggravated him till he told them he did n't care a pinch of snuff for the whole bilin ' of 'em . let 'em come on , six at a time , and try what they could do . the king , that was too far off to hear what they were saying , asked what did the stranger want . " he wants , " says the red - headed fellow , " to make hares of your best men . " " oh ! " says the king , " if that 's the way , let one of 'em turn out and try his mettle . " so one stood forward , with sword and pot - lid , and made a cut at tom . he struck the fellow 's elbow with the club , and up over their heads flew the sword , and down went the owner of it on the gravel from a thump he got on the helmet . another took his place , and another , and another , and then half a dozen at once , and tom sent swords , helmets , shields , and bodies rolling over and over , and themselves bawling out that they were kilt , and disabled , and damaged , and rubbing their poor elbows and hips , and limping away . tom contrived not to kill anyone . the princess was so amused that she let a great sweet laugh out of her that was heard all over the yard . " king of dublin , " says tom , " i 've quarter of your daughter . " and the king did n't know whether he was glad or sorry , and all the blood in the princess 's heart run into her cheeks .
+<Question> how did the king feel when tom made the princess laugh ?
+<Attribute> feeling
+<Ex_or_Im> explicit
+<Answer> glad .
+<END>
+
+<Example 5>
+<Context> " that 's all very well , but we are not through yet , " said the boy , " there is worse to come , " and he told them to reef every last rag , as well as what had been left of the topsails . the second squall hit them with even greater force than the first , and was so vicious and violent that the whole crew was frightened . while it was at its worst , the boy told them to throw overboard the second cord ; and they threw it over billet by billet , and took care not to take any from the third cord . when the last billet fell , they again heard a deep groan , and then all was still . " now there will be one more squall , and that will be the worst , " said the boy , and sent every one to his station . there was not a hawser loose on the whole ship . the last squall hit them with far more force than either of the preceding ones , the ship laid over on her side so that they thought she would not right herself again , and the breaker swept over the deck .
+<Question> how did the crew feel when the second squall hit ?
+<Attribute> feeling
+<Ex_or_Im> explicit
+<Answer> frightened .
+<END>
+
+

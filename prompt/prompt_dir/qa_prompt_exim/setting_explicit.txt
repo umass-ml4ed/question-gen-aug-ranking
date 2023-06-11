@@ -1,0 +1,41 @@
+<Example 1>
+<Context> and i 've heard tell that they drew her to the palace of a great and wealthy prince , who married her ; but that is outside my story . a few weeks afterwards , the second princess thought that she would do as her sister had done , and go down to the hen - wife 's cottage , and tell her that she , too , was going out into the world to seek her fortune . and , of course , in her heart of hearts she hoped that what had happened to her sister would happen to her also . and , curious to say , it did . for the old hen - wife sent her to look out at her back door , and she went , and , lo and behold ! another coach - and - six was coming along the road . and when she went and told the old woman , she smiled upon her kindly , and told her to hurry home , for the coach - and - six was her fortune also , and that it had come for her . so she , too , ran home , and got into her grand carriage , and was driven away . and , of course , after all these lucky happenings , the youngest princess was anxious to try what her fortune might be ; so the very night , in high good humour , she tripped away down to the old witch 's cottage .
+<Question> where did the eldest princess go to after she got onto the coach ?
+<Attribute> setting
+<Ex_or_Im> explicit
+<Answer> the palace of a great and wealthy prince .
+<END>
+
+<Example 2>
+<Context> this was the more to be regretted , as the season had arrived when they were soon to go to a southern country to pass the winter , and the children were only waiting to become a little stronger and more expert on the wing to set out on the journey . finding that their elder brother did not return , they resolved to go in search of him . after beating up and down the country for the better part of a whole day , they at last found him , sorely wounded and unable to fly , lodged in the upper branches of a sycamore - tree .
+<Question> where did the falcons find their elder brother ?
+<Attribute> setting
+<Ex_or_Im> explicit
+<Answer> in the upper branches of a sycamore - tree .
+<END>
+
+<Example 3>
+<Context> then they began to eat and drink ; but the girl left the hill and went home . the following day she again went to the wood to look for the cattle , did not find them , lost her way again , and came to the same hill . this time she also entered , and found everything as it had been the first time , the well - spread table and the bed with the snake in it . and the snake said to her , as before : " sit down , if you choose ! eat , if you choose ! come , and lie down in the bed if you choose ! but if you do not choose , then do not do so ! now a great many more people are coming who will want to dance with you , but do not go with them . " the snake had scarcely concluded before a great many people arrived , who began to dance , eat and drink ; but the girl did not keep them company , instead she left the hill and went home .
+<Question> where did the girl go when the people began to eat and drink ?
+<Attribute> setting
+<Ex_or_Im> explicit
+<Answer> home .
+<END>
+
+<Example 4>
+<Context> wherever redhead went the wolf followed , and kept one eye on him and the other on tom , to see if he would give him leave to eat him . but tom shook his head , and never stopped the tune . redhead never stopped dancing and bawling and the wolf dancing and roaring , one leg up and the other down , and he ready to drop out of his standing from fair tiresomeness . when the princess seen that there was no fear of anyone being kilt she was so divarted by the stew that redhead was in that she gave another great laugh ; and well become tom , out he cried , " king of dublin , i have two quarters of your daughter . " " oh , quarters or alls , " says the king , " put away that divel of a wolf and we 'll see about it . " so gilla put his flute in his pocket , and says he to the baste that was sittin ' on his currabingo ready to faint , " walk off to your mountains , my fine fellow , and live like a respectable baste . if ever i find you come within seven miles of any town---- " he said no more , but spit in his fist , and gave a flourish of his club . it was all the poor divel wanted . he put his tail between his legs and took to his pumps without looking at man nor mortial , and neither sun , moon , nor stars ever saw him in sight of dublin again . at dinner everyone laughed but the foxy fellow . sure enough , he was laying out how he 'd settle poor tom next day . " well , to be sure ! " says he , " king of dublin , you are in luck . there 's the danes moidhering us to no end . d---- run to lusk wid 'em ! and if anyone can save us from 'em it is this gentleman with the goat - skin . there is a flail hangin ' on the collar - beam in hell , and neither dane nor devil can stand before it . " " so , " says tom to the king , " will you let me have the other half of the princess if i bring you the flail ? " " no , no , " says the princess , " i 'd rather never be your wife than see you in that danger . "
+<Question> where did tom tell the wolf to go ?
+<Attribute> setting
+<Ex_or_Im> explicit
+<Answer> mountains .
+<END>
+
+<Example 5>
+<Context> just as i was falling asleep last night , i heard a horse 's tramp on the grass and a knock at the door , and there , when i came out , was a fine - looking dark man , mounted on a black horse , and he told me to get ready in all haste , for a lady was in great want of me . as soon as i put on my cloak and things , he took me by the hand , and i was sitting behind him before i felt myself stirring . " where are we going , sir ? " says i. " you 'll soon know , " says he ; and he drew his fingers across my eyes , and not a ray could i see . i kept a tight grip of him , and i little knew whether he was going backwards or forwards , or how long we were about it , till my hand was taken again , and i felt the ground under me . the fingers went the other way across my eyes , and there we were before a castle door , and in we went through a big hall and great rooms all painted in fine green colours , with red and gold bands and ornaments , and the finest carpets and chairs and tables and window curtains , and grand ladies and gentlemen walking about . at last we came to a bedroom , with a beautiful lady in bed , with a fine bouncing boy beside her . the lady clapped her hands , and in came the dark man and kissed her and the baby , and praised me , and gave me a bottle of green ointment to rub the child all over .
+<Question> where did the fine-looking dark man take the neighbor to ?
+<Attribute> setting
+<Ex_or_Im> explicit
+<Answer> a bedroom .
+<END>
+
+

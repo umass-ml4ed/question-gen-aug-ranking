@@ -1,0 +1,36 @@
+<Context> shiyu by using his magic art quickly passed over with his army and shut himself up in a fortress on the opposite bank . when kotei found his march checked he was wild with disappointment , for he had very nearly overtaken the rebel when the river stopped him . he could do nothing , for there were no boats in those days , so the emperor ordered his tent to be pitched in the pleasantest spot that the place afforded .
+<Answer> ordered his tent to be pitched in the pleasantest spot .
+<Attribute> outcome resolution
+<Ex_or_Im> explicit
+<Question> what happened because kotei could not do anything ?
+<END>
+
+<Context> but at the sound of his voice the two men were so terrified that they ran straight home . the man in the coffin got up and followed them . it was his wife that gained the gold ring , as he had been sillier than the other two .
+<Answer> the man in the coffin got up and followed them , and it was his wife that gained the gold ring .
+<Attribute> outcome resolution
+<Ex_or_Im> explicit
+<Question> what happened after the two men ran straight home ?
+<END>
+
+<Context> it was a long way to the castle , and he hurried and ran in order to get there in good time . toward evening he spied the castle , and it was much handsomer than both the others . this time he felt hardly any fear at all ; but went through the kitchen and right on in . there sat a princess who was extraordinarily beautiful . like the others , she said that no christian soul had ever come to the castle since she had been there , and told him to go away again , as otherwise the troll would swallow him alive , for he had nine heads . " and though he had nine more , and nine on top of those , i will not go , " said halvor , and stood by the stove . the princess earnestly begged him to go , so that the troll would not devour him , but halvor said : " let him come whenever he wishes ! " then she gave him the troll sword , and told him to take a swallow from the bottle , so that he could swing it .
+<Answer> halvor hurried and ran in order to get there in good time .
+<Attribute> outcome resolution
+<Ex_or_Im> explicit
+<Question> what happened because the castle was a long way away ?
+<END>
+
+<Context> when he got back he began to feel ill and to have burning pains in his feet , so he knew that the serpent had poisoned him . so great was his suffering that he could hardly move , much less walk , so he had himself carried to a place in the mountains famous for its hot mineral springs , which rose bubbling out of the earth , and almost boiling from the volcanic fires beneath . yamato take bathed daily in these waters , and gradually he felt his strength come again , and the pains left him , till at last one day he found with great joy that he was quite recovered . he now hastened to the temples of ise , where you will remember that he prayed before undertaking this long expedition . his aunt , priestess of the shrine , who had blessed him on his setting out , now came to welcome him back . he told her of the many dangers he had encountered and of how marvelously his life had been preserved through all - and she praised his courage and his warrior 's prowess , and then putting on her most magnificent robes she returned thanks to their ancestress the sun goddess amaterasu , to whose protection they both ascribed the prince 's wonderful preservation . here ends the story of prince yamato take of japan .
+<Answer> he began to feel ill and have burning pains in his feet .
+<Attribute> outcome resolution
+<Ex_or_Im> explicit
+<Question> what happened because the serpent poisoned yamato ?
+<END>
+
+<Context> so she returned to the castle , and all arthur 's men went after her , and entered the hall . ' greeting to thee , yspaddaden penkawr , ' said they . ' we come to ask thy daughter olwen for kilweh , son of kilydd . ' ' come hither to - morrow and i will answer you , ' replied yspaddaden penkawr , and as they rose to leave the hall he caught up one of the three poisoned darts that lay beside him and flung it in their midst . but bedwyr saw and caught it , and flung it back so hard that it pierced the knee of yspaddaden . ' a gentle son - in - law , truly ! ' he cried , writhing with pain . ' i shall ever walk the worse for this rudeness . cursed be the smith who forged it , and the anvil on which it was wrought ! '
+<Answer> he caught up one of the three poisoned darts that lay beside him and flung it in their midst .
+<Attribute> outcome resolution
+<Ex_or_Im> explicit
+<Question> what happened after the seven men rose up to leave ?
+<END>
+
+

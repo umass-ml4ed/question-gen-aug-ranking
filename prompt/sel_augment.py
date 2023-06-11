@@ -47,7 +47,7 @@ def main():
     aug_df = pd.read_csv(os.path.join(filter_dir, filename)).sample(frac=1, random_state=37)
 
     # NOTE: Train data
-    data_path = '../data/FairytaleQA/train.json'
+    data_path = '../data/train.json'
     train_data = []
     with open(data_path, 'r') as infile:
         for line in infile:
@@ -70,7 +70,7 @@ def main():
         org_data.append(aug_dict)
 
     # Store the augmented data
-    store_dir = '../data/FairytaleQA'
+    store_dir = '../data'
     store_filename = 'prompt_only_data.json'
     with open(os.path.join(store_dir, store_filename), 'w') as f:
         for d in org_data:
@@ -142,7 +142,7 @@ def main():
         suffix = ''
 
     # Store the augmented data
-    store_dir = '../data/FairytaleQA'
+    store_dir = '../data'
     store_filename = 'prompt_aug_control_count_{:s}.json'.format(suffix)
     with open(os.path.join(store_dir, store_filename), 'w') as f:
         for d in org_data:

@@ -1,0 +1,30 @@
+<Context> then a little frog , with bright jewelled eyes , and a green mottled coat , swam up to him . " a new arrival , i see ! " said the frog . " well , after all there is nothing like mud . give me rainy weather and a ditch , and i am quite happy . do you think it will be a wet afternoon ? i am sure i hope so , but the sky is quite blue and cloudless . what a pity ! " " ahem ! ahem ! " said the rocket , and he began to cough . " what a delightful voice you have ! " cried the frog . " really it is quite like a croak , and croaking is of course the most musical sound in the world . you will hear our glee - club this evening . we sit in the old duck pond close by the farmer 's house , and as soon as the moon rises we begin . it is so entrancing that everybody lies awake to listen to us . in fact , it was only yesterday that i heard the farmer 's wife say to her mother that she could not get a wink of sleep at night on account of us . it is most gratifying to find oneself so popular . "
+<Answer> a little frog .
+<Attribute> character
+<Question> who did the rocket meet after falling into the mud ?
+<END>
+
+<Context> so he went up a hill and set up two forks on the top . while he was doing this he saw a scholar coming towards him , whose clothes were tattered . now it was seven years since manawyddan had seen man or beast in that place , and the sight amazed him . ' good day to thee , my lord , ' said the scholar . ' good greeting to thee , scholar . whence dost thou come ? ' ' from singing in england ; but wherefore dost thou ask ? ' ' because for seven years no man hath visited this place . ' ' i wander where i will , ' answered the scholar . ' and what work art thou upon ? '
+<Answer> a scholar .
+<Attribute> character
+<Question> who did manawyddan see coming towards him ?
+<END>
+
+<Context> otto felt rather ashamed : he quite understood what it meant , but he thought that the old man 's revenge was a noble one . the raspberry king had also remembered the big sister , for when she went in to set the table for dinner , she found eleven big baskets of most beautiful raspberries , and no one knew how they had come there , but everyone guessed . and so there was such a jam - making as had never been seen before , and if you like to go and help in it , you might perhaps get a little , for they must surely be making jam still to this very day .
+<Answer> the old man .
+<Attribute> character
+<Question> who gave the big sister the big baskets of raspberries ?
+<END>
+
+<Context> they went into the dairy . the first thing they found was mittens , hiding in an empty jar . they tipped up the jar , and she scrambled out . " oh , mother , mother ! " said mittens-- " oh ! mother , mother , there has been an old man rat in the dairy -- a dreadful enormous big rat , mother ; and he 's stolen a pat of butter and the rolling - pin . " ribby and tabitha looked at one another . " a rolling - pin and butter ! oh , my poor son thomas ! " exclaimed tabitha , wringing her paws . " a rolling - pin ? " said ribby . " did we not hear a roly - poly noise in the attic when we were looking into that chest ? "
+<Answer> a dreadful , normous , bug rat .
+<Attribute> character
+<Question> how did mittens descrive the old man rat who stole a pat of butter and the rolling-pin ?
+<END>
+
+<Context> one day he sallied forth in search of adventures , for he had the nature of a warrior and could not bear to be idle . so he buckled on his two swords , took his huge bow , much taller than himself , in his hand , and slinging his quiver on his back started out . he had not gone far when he came to the bridge of seta - no - karashi spanning one end of the beautiful lake biwa . no sooner had he set foot on the bridge than he saw lying right across his path a huge serpent - dragon . its body was so big that it looked like the trunk of a large pine tree and it took up the whole width of the bridge . one of its huge claws rested on the parapet of one side of the bridge , while its tail lay right against the other . the monster seemed to be asleep , and as it breathed , fire and smoke came out of its nostrils .
+<Answer> the trunk of a large pine tree .
+<Attribute> character
+<Question> what did the serpent-dragon's body look like ?
+<END>
+

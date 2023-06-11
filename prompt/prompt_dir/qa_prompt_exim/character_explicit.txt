@@ -1,0 +1,41 @@
+<Example 1>
+<Context> by and by they came to a large field . here a bird flew down and alighted on the ground just in front of the little party . it was the most beautiful bird momotaro had ever seen . on its body were five different robes of feathers and its head was covered with a scarlet cap .
+<Question> how did the bird look ?
+<Attribute> character
+<Ex_or_Im> explicit
+<Answer> beautiful .
+<END>
+
+<Example 2>
+<Context> they went out into the woods , and at the close of the afternoon they brought back a great spoil of meat of all kinds . the young man , as soon as he had laid aside his weapons , said to the old toad - woman , " send some of the best of this meat to the stranger who has arrived lately . " the toad - woman answered , " no ! why should i send to her , the poor widow ! " the young man would not be refused ; and at last the old toad - woman consented to take something and throw it down at the door . she called out , " my son gives you this . " but , being bewitched by mukakee mindemoea , it was so bitter and distasteful , that the young woman immediately cast it out of the lodge after her . in the evening the young man paid the stranger a visit at her lodge of cedar - boughs . she then told him that she was his real mother , and that he had been stolen away from her by the old toad - woman , who was a child - thief and a witch . as the young man appeared to doubt , she added , " feign yourself sick when you go home to her lodge ; and when the toad - woman asks what ails you , say that you wish to see your cradle ; for your cradle was of wampum , and your faithful brother the dog , in striving to save you , tore off these pieces which i show you . "
+<Question> who was the old toad-woman ?
+<Attribute> character
+<Ex_or_Im> explicit
+<Answer> a child - thief .
+<END>
+
+<Example 3>
+<Context> the story takes place in baghdad during the abbasid era . ali baba and his elder brother cassim are the sons of a merchant . after the death of their father , the greedy cassim marries a wealthy woman and becomes well - to - do , building on their father 's business - but ali baba marries a poor woman and settles into the trade of a woodcutter .
+<Question> who does cassim marry after the death of their father ?
+<Attribute> character
+<Ex_or_Im> explicit
+<Answer> a wealthy woman .
+<END>
+
+<Example 4>
+<Context> now , there was once a maiden called jorinde , who was more beautiful than other maidens . she and a youth named joringel , who was just as good - looking as she was , were betrothed to one another . their greatest delight was to be together , and so that they might get a good long talk , they went one evening for a walk in the wood . ' take care , ' said joringel , ' not to come too close to the castle . ' it was a beautiful evening ; the sun shone brightly between the stems of the trees among the dark green leaves of the forest , and the turtle - dove sang clearly on the old maybushes .
+<Question> who was engaged to jorinde ?
+<Attribute> character
+<Ex_or_Im> explicit
+<Answer> joringel .
+<END>
+
+<Example 5>
+<Context> now one night he heard some one knocking at the porch , asking for admittance . when the servant went to the door to see who it was , there was only an old woman , very respectable in appearance . on being asked who she was and what was her business , the old woman replied with a smile that she had been nurse to the master of the house when he was a little baby . if the lord of the house were at home she begged to be allowed to see him .
+<Question> who did the woman say she was ?
+<Attribute> character
+<Ex_or_Im> explicit
+<Answer> nurse to the master of the house when he was a little baby .
+<END>
+
+
