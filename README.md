@@ -21,7 +21,9 @@ If you find our code or paper useful, please consider citing:
 
 To install the libraries need for running this code: 
 
-<TODO: Add citation>
+```
+conda env create -f environment.yml
+```
 
 ## Finetuning
 
