@@ -6,7 +6,16 @@ For any questions please [email](mailto:nashokkumar@umass.edu) or raise an issue
 
 If you find our code or paper useful, please consider citing:
 
-<TODO: Add citation>
+If you find our code or paper useful, please consider citing:
+```
+@article{kumar2023improving,
+  title={Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank},
+  author={Kumar, Nischal Ashok and Fernandez, Nigel and Wang, Zichao and Lan, Andrew},
+  journal={arXiv preprint arXiv:2306.08847},
+  year={2023}
+}
+```
+
 
 ## Contents 
 
@@ -120,7 +129,7 @@ python -m ranking_perplexity.generate \
 
 ### Distribution Ranking
 
-First, run the Inference (#inferencegeneration) step to get the 10 different generations per sample. 
+First, run the [Inference/Generation](#inferencegeneration) step to get the 10 different generations per sample. 
 
 * **Finetuning Distribution Ranking-Based Model**
 ```
