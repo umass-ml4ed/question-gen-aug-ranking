@@ -1,17 +1,15 @@
-# Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank
+# [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](https://arxiv.org/abs/2306.08847)
 
 In this repository we present the code to our paper "Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank" by [Nischal Ashok Kumar](https://nish-19.github.io/), [Nigel Fernandez](https://www.linkedin.com/in/ni9elf/), [Zichao Wang](https://zw16.web.rice.edu/) and [Andrew Lan](https://people.umass.edu/~andrewlan/). We propose two methods, viz, Data Augmentation and Over-Generate-and-Rank that significantly improve the question generation performance on reading comprehension datasets. 
 
 For any questions please [email](mailto:nashokkumar@umass.edu) or raise an issue.
 
 If you find our code or paper useful, please consider citing:
-
-If you find our code or paper useful, please consider citing:
 ```
-@article{kumar2023improving,
+@inproceedings{kumar2023improving,
   title={Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank},
   author={Kumar, Nischal Ashok and Fernandez, Nigel and Wang, Zichao and Lan, Andrew},
-  journal={arXiv preprint arXiv:2306.08847},
+  booktitle={Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)},
   year={2023}
 }
 ```
