@@ -29,7 +29,7 @@ If you find our code or paper useful, please consider citing:
 A [Wandb](https://wandb.ai/site) account is required to log train-test-val information (loss, metrics, etc). Best model checkpoints are saved locally.
 
 
-To install the libraries need for running this code: 
+To install the necessary libraries for this codebase: 
 
 ```
 conda env create -f environment.yml
